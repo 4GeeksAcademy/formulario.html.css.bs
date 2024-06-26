@@ -1,9 +1,4 @@
-fieldset {
-    background-color: gray;
-}
-legend {
-    font-weight: bold; 
-}
-nav {
-    background-color: gray;
+.form-container {
+    max-width: 800px;
+    margin: 20px auto;
 }
